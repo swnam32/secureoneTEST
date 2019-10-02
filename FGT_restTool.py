@@ -3,7 +3,6 @@ import requests
 import argparse
 import sys
 import json
-import jsonpyth
 import urllib3
 from pprint import pprint
 
